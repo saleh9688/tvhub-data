@@ -1,0 +1,10 @@
+﻿{
+    "version":  1792051346,
+    "updated":  "2026-10-15 11:02",
+    "catalog":  "catalog.json",
+    "categories":  "categories.json",
+    "sha256_catalog":  "a60a35701bc439d3b518d05155422f16a4457966eb00a68e4defc10819715ae2",
+    "sha256_categories":  "e0c9701e226130bfc4b7339d697351941990abc1eb71cdf9d1ea6a5a97333bdf",
+    "channels":  2032,
+    "categories_count":  74
+}
